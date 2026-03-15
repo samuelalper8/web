@@ -1,0 +1,8 @@
+# ConPrev — Análise de Restrições
+# Dependências para Streamlit Cloud / pip
+
+streamlit>=1.32.0
+
+# Mesmas versões usadas no app desktop
+PyMuPDF==1.24.11
+PyPDF2==3.0.1
